@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "source_fichier": "source_data/offres_emploi_it_maroc.json",
+    "date_ingestion": "2026-05-09T20:30:44.215556",
+    "partition": "marocannonces/2024_01",
+    "nb_offres": 6
+  },
+  "offres": [
+    {
+      "id_offre": "MEX-11020",
+      "source": "MarocAnnonces",
+      "titre_poste": "Data Engineer 3 à 5 ans",
+      "entreprise": "TechCorp 18",
+      "ville": "Casablanca",
+      "date_publication": "2024-01-01",
+      "type_contrat": "Freelance",
+      "salaire_brut": "21000 à 30000 DH",
+      "experience_requise": "3 à 5 ans",
+      "teletravail": "Hybride",
+      "description": "Nous recherchons un Data Engineer pour rejoindre notre équipe. Maîtrise requise : React, AWS, Docker, Power BI, Java.",
+      "competences_brut": "React, AWS, Docker, Power BI, Java"
+    },
+    {
+      "id_offre": "MEX-11027",
+      "source": "MarocAnnonces",
+      "titre_poste": "Data Scientist 3 à 5 ans",
+      "entreprise": "TechCorp 46",
+      "ville": "Rabat",
+      "date_publication": "2024-01-01",
+      "type_contrat": "CDI",
+      "salaire_brut": "22000 à 33000 DH",
+      "experience_requise": "3 à 5 ans",
+      "teletravail": "Télétravail total",
+      "description": "Nous recherchons un Data Scientist pour rejoindre notre équipe. Maîtrise requise : Kafka, Power BI, Python, JavaScript.",
+      "competences_brut": "Kafka, Power BI, Python, JavaScript"
+    },
+    {
+      "id_offre": "MEX-13931",
+      "source": "MarocAnnonces",
+      "titre_poste": "Admin Systèmes & Réseaux 3 à 5 ans",
+      "entreprise": "TechCorp 41",
+      "ville": "Casablanca",
+      "date_publication": "2024-01-01",
+      "type_contrat": "Freelance",
+      "salaire_brut": "11K - 16K MAD",
+      "experience_requise": "3 à 5 ans",
+      "teletravail": "Sur site",
+      "description": "Nous recherchons un Admin Systèmes & Réseaux pour rejoindre notre équipe. Maîtrise requise : Python, JavaScript, Spring, Spark, Java.",
+      "competences_brut": "Python, JavaScript, Spring, Spark, Java"
+    },
+    {
+      "id_offre": "MEX-14050",
+      "source": "MarocAnnonces",
+      "titre_poste": "DevOps Débutant",
+      "entreprise": "TechCorp 35",
+      "ville": "Casablanca",
+      "date_publication": "2024-01-01",
+      "type_contrat": "CDI",
+      "salaire_brut": "11K - 16K MAD",
+      "experience_requise": "Débutant",
+      "teletravail": "Hybride",
+      "description": "Nous recherchons un DevOps pour rejoindre notre équipe. Maîtrise requise : Airflow, Kafka.",
+      "competences_brut": "Airflow, Kafka"
+    },
+    {
+      "id_offre": "MEX-14308",
+      "source": "MarocAnnonces",
+      "titre_poste": "Data Scientist Débutant",
+      "entreprise": "TechCorp 26",
+      "ville": "Casablanca",
+      "date_publication": "2024-01-01",
+      "type_contrat": "CDI",
+      "salaire_brut": "12K - 19K MAD",
+      "experience_requise": "Débutant",
+      "teletravail": "Télétravail total",
+      "description": "Nous recherchons un Data Scientist pour rejoindre notre équipe. Maîtrise requise : JavaScript, React.",
+      "competences_brut": "JavaScript, React"
+    },
+    {
+      "id_offre": "MEX-14845",
+      "source": "MarocAnnonces",
+      "titre_poste": "Data Analyst Débutant",
+      "entreprise": "TechCorp 41",
+      "ville": "Rabat",
+      "date_publication": "2024-01-01",
+      "type_contrat": "CDI",
+      "salaire_brut": "8K - 12K MAD",
+      "experience_requise": "Débutant",
+      "teletravail": "Hybride",
+      "description": "Nous recherchons un Data Analyst pour rejoindre notre équipe. Maîtrise requise : Spring, Power BI.",
+      "competences_brut": "Spring, Power BI"
+    }
+  ]
+}

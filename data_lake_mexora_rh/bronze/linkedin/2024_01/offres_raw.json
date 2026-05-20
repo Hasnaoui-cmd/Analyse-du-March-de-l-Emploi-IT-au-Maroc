@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "source_fichier": "source_data/offres_emploi_it_maroc.json",
+    "date_ingestion": "2026-05-09T20:30:44.214160",
+    "partition": "linkedin/2024_01",
+    "nb_offres": 3
+  },
+  "offres": [
+    {
+      "id_offre": "MEX-10923",
+      "source": "LinkedIn",
+      "titre_poste": "Support IT Senior (5+ ans)",
+      "entreprise": "TechCorp 28",
+      "ville": "Tanger",
+      "date_publication": "2024-01-01",
+      "type_contrat": "CDI",
+      "salaire_brut": "9K - 14K MAD",
+      "experience_requise": "Senior (5+ ans)",
+      "teletravail": "Hybride",
+      "description": "Nous recherchons un Support IT pour rejoindre notre équipe. Maîtrise requise : JavaScript, Airflow.",
+      "competences_brut": "JavaScript, Airflow"
+    },
+    {
+      "id_offre": "MEX-11805",
+      "source": "LinkedIn",
+      "titre_poste": "Data Analyst 3 à 5 ans",
+      "entreprise": "TechCorp 17",
+      "ville": "Rabat",
+      "date_publication": "2024-01-01",
+      "type_contrat": "CDI",
+      "salaire_brut": "14000 à 22000 DH",
+      "experience_requise": "3 à 5 ans",
+      "teletravail": "Hybride",
+      "description": "Nous recherchons un Data Analyst pour rejoindre notre équipe. Maîtrise requise : AWS, Spring, Power BI.",
+      "competences_brut": "AWS, Spring, Power BI"
+    },
+    {
+      "id_offre": "MEX-12189",
+      "source": "LinkedIn",
+      "titre_poste": "Développeur Frontend Senior (5+ ans)",
+      "entreprise": "TechCorp 46",
+      "ville": "Casablanca",
+      "date_publication": "2024-01-01",
+      "type_contrat": "CDI",
+      "salaire_brut": "18000 à 27000 DH",
+      "experience_requise": "Senior (5+ ans)",
+      "teletravail": "Télétravail total",
+      "description": "Nous recherchons un Développeur Frontend pour rejoindre notre équipe. Maîtrise requise : React, Python, Kafka.",
+      "competences_brut": "React, Python, Kafka"
+    }
+  ]
+}

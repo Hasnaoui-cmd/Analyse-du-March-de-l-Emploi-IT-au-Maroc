@@ -1,0 +1,454 @@
+{
+  "familles": {
+    "langages": {
+      "python": [
+        "python",
+        "python3",
+        "py"
+      ],
+      "javascript": [
+        "javascript",
+        "js",
+        "node.js",
+        "nodejs",
+        "node"
+      ],
+      "typescript": [
+        "typescript",
+        "ts"
+      ],
+      "java": [
+        "java",
+        "java8",
+        "java11",
+        "java17",
+        "jee"
+      ],
+      "c_sharp": [
+        "c#",
+        "csharp",
+        ".net",
+        "dotnet",
+        "asp.net"
+      ],
+      "c_cpp": [
+        "c",
+        "c++",
+        "cpp"
+      ],
+      "php": [
+        "php",
+        "php7",
+        "php8"
+      ],
+      "ruby": [
+        "ruby",
+        "ruby on rails",
+        "ror"
+      ],
+      "go": [
+        "go",
+        "golang"
+      ],
+      "rust": [
+        "rust"
+      ],
+      "swift": [
+        "swift",
+        "objective-c"
+      ],
+      "kotlin": [
+        "kotlin"
+      ],
+      "scala": [
+        "scala"
+      ],
+      "sql": [
+        "sql",
+        "mysql",
+        "postgresql",
+        "postgres",
+        "oracle",
+        "tsql",
+        "pl/sql"
+      ],
+      "r": [
+        "r",
+        "rlang",
+        "r-studio"
+      ],
+      "dart": [
+        "dart"
+      ]
+    },
+    "frameworks_web": {
+      "react": [
+        "react",
+        "reactjs",
+        "react.js"
+      ],
+      "angular": [
+        "angular",
+        "angularjs",
+        "angular 2+"
+      ],
+      "vue": [
+        "vue",
+        "vuejs",
+        "vue.js"
+      ],
+      "django": [
+        "django",
+        "django rest framework",
+        "drf"
+      ],
+      "flask": [
+        "flask"
+      ],
+      "spring": [
+        "spring",
+        "spring boot",
+        "springboot"
+      ],
+      "laravel": [
+        "laravel"
+      ],
+      "express": [
+        "express",
+        "expressjs"
+      ],
+      "nextjs": [
+        "nextjs",
+        "next.js"
+      ],
+      "nestjs": [
+        "nestjs",
+        "nest.js"
+      ]
+    },
+    "data_engineering": {
+      "spark": [
+        "spark",
+        "apache spark",
+        "pyspark"
+      ],
+      "kafka": [
+        "kafka",
+        "apache kafka",
+        "confluent"
+      ],
+      "airflow": [
+        "airflow",
+        "apache airflow"
+      ],
+      "dbt": [
+        "dbt",
+        "data build tool"
+      ],
+      "hadoop": [
+        "hadoop",
+        "hdfs",
+        "mapreduce",
+        "hive",
+        "hbase"
+      ],
+      "flink": [
+        "flink",
+        "apache flink"
+      ],
+      "snowflake": [
+        "snowflake"
+      ],
+      "databricks": [
+        "databricks"
+      ],
+      "talend": [
+        "talend"
+      ],
+      "pentaho": [
+        "pentaho"
+      ],
+      "ssis": [
+        "ssis",
+        "sql server integration services"
+      ]
+    },
+    "bases_de_donnees": {
+      "postgresql": [
+        "postgresql",
+        "postgres",
+        "plpgsql"
+      ],
+      "mysql": [
+        "mysql",
+        "mariadb"
+      ],
+      "sql_server": [
+        "sql server",
+        "mssql"
+      ],
+      "oracle_db": [
+        "oracle",
+        "oracle db"
+      ],
+      "mongodb": [
+        "mongodb",
+        "mongo"
+      ],
+      "redis": [
+        "redis"
+      ],
+      "cassandra": [
+        "cassandra",
+        "apache cassandra"
+      ],
+      "elasticsearch": [
+        "elasticsearch",
+        "elk",
+        "elastic"
+      ],
+      "dynamodb": [
+        "dynamodb"
+      ],
+      "neo4j": [
+        "neo4j"
+      ]
+    },
+    "cloud": {
+      "aws": [
+        "aws",
+        "amazon web services",
+        "ec2",
+        "s3",
+        "lambda",
+        "redshift"
+      ],
+      "gcp": [
+        "gcp",
+        "google cloud",
+        "bigquery",
+        "cloud storage"
+      ],
+      "azure": [
+        "azure",
+        "microsoft azure",
+        "synapse",
+        "azure data factory",
+        "adf"
+      ]
+    },
+    "bi_analytics": {
+      "power_bi": [
+        "power bi",
+        "powerbi",
+        "pbi",
+        "dax"
+      ],
+      "tableau": [
+        "tableau",
+        "tableau desktop"
+      ],
+      "metabase": [
+        "metabase"
+      ],
+      "looker": [
+        "looker",
+        "looker studio"
+      ],
+      "qlik": [
+        "qlik",
+        "qlikview",
+        "qliksense"
+      ],
+      "excel": [
+        "excel",
+        "vba",
+        "macros"
+      ]
+    },
+    "data_science_ml": {
+      "scikit_learn": [
+        "scikit-learn",
+        "sklearn"
+      ],
+      "tensorflow": [
+        "tensorflow",
+        "tf"
+      ],
+      "pytorch": [
+        "pytorch",
+        "torch"
+      ],
+      "keras": [
+        "keras"
+      ],
+      "pandas": [
+        "pandas"
+      ],
+      "numpy": [
+        "numpy"
+      ],
+      "nlp": [
+        "nlp",
+        "traitement du langage naturel",
+        "nltk",
+        "spacy",
+        "llm"
+      ],
+      "computer_vision": [
+        "computer vision",
+        "vision par ordinateur",
+        "opencv"
+      ]
+    },
+    "devops_infra": {
+      "docker": [
+        "docker",
+        "docker-compose"
+      ],
+      "kubernetes": [
+        "kubernetes",
+        "k8s"
+      ],
+      "terraform": [
+        "terraform"
+      ],
+      "ansible": [
+        "ansible"
+      ],
+      "jenkins": [
+        "jenkins"
+      ],
+      "gitlab_ci": [
+        "gitlab ci",
+        "gitlab-ci"
+      ],
+      "github_actions": [
+        "github actions"
+      ],
+      "linux": [
+        "linux",
+        "bash",
+        "shell",
+        "ubuntu",
+        "centos",
+        "unix"
+      ],
+      "windows_server": [
+        "windows server",
+        "powershell"
+      ],
+      "serveurs_web": [
+        "nginx",
+        "apache",
+        "tomcat"
+      ]
+    },
+    "mobile": {
+      "flutter": [
+        "flutter"
+      ],
+      "react_native": [
+        "react native"
+      ],
+      "ios": [
+        "ios"
+      ],
+      "android": [
+        "android",
+        "android sdk"
+      ],
+      "xamarin": [
+        "xamarin"
+      ],
+      "ionic": [
+        "ionic"
+      ]
+    },
+    "cybersecurite": {
+      "pentesting": [
+        "pentest",
+        "test d'intrusion",
+        "kali linux"
+      ],
+      "soc_siem": [
+        "soc",
+        "siem",
+        "splunk",
+        "qradar"
+      ],
+      "owasp": [
+        "owasp",
+        "sécurité applicative"
+      ],
+      "cryptographie": [
+        "cryptographie",
+        "crypto",
+        "pki",
+        "tls"
+      ],
+      "reseau_secu": [
+        "firewall",
+        "fortinet",
+        "palo alto",
+        "vpn",
+        "nmap",
+        "wireshark"
+      ]
+    },
+    "methodologies_et_outils": {
+      "agile": [
+        "agile",
+        "scrum",
+        "kanban",
+        "safe"
+      ],
+      "versionning": [
+        "git",
+        "github",
+        "gitlab",
+        "bitbucket",
+        "svn"
+      ],
+      "gestion_projet": [
+        "jira",
+        "confluence",
+        "trello",
+        "notion"
+      ]
+    },
+    "architectures": {
+      "microservices": [
+        "microservices",
+        "micro-services"
+      ],
+      "api": [
+        "rest",
+        "api rest",
+        "graphql",
+        "soap"
+      ],
+      "event_driven": [
+        "event-driven",
+        "architecture événementielle"
+      ]
+    },
+    "crm_erp": {
+      "salesforce": [
+        "salesforce",
+        "apex"
+      ],
+      "sap": [
+        "sap",
+        "abap"
+      ],
+      "odoo": [
+        "odoo"
+      ],
+      "ms_dynamics": [
+        "microsoft dynamics",
+        "dynamics 365"
+      ]
+    }
+  }
+}

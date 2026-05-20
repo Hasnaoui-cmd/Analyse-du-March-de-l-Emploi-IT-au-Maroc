@@ -1,0 +1,121 @@
+nom_entreprise,secteur,taille,ville_siege,site_web,type
+Bank Al-Maghrib,Finance,Grande Entreprise,Rabat,www.bkam.ma,Banque
+Maroc Telecom,Télécom,Grande Entreprise,Rabat,www.iam.ma,Telecom
+Inwi,Télécom,Grande Entreprise,Casablanca,www.inwi.ma,Telecom
+Orange Maroc,Télécom,Grande Entreprise,Casablanca,www.orange.ma,Telecom
+Attijariwafa Bank,Finance,Grande Entreprise,Casablanca,www.attijariwafabank.com,Banque
+BCP,Finance,Grande Entreprise,Casablanca,www.gbp.ma,Banque
+Capgemini Maroc,Informatique,Grande Entreprise,Casablanca,www.capgemini.com,SSII
+CGI Maroc,Informatique,Grande Entreprise,Rabat,www.cgi.com,SSII
+Mexora,E-commerce,ETI,Tanger,www.mexora.ma,Produit
+Rabat Data,Informatique,PME,Rabat,www.rabatdata.ma,SSII
+Smart Solutions,Finance,Grande Entreprise,Agadir,www.smartsolutions.ma,Banque
+Tanja Group SA,E-commerce,PME,Marrakech,www.tanjagroupsa.ma,Autre
+Mena Tech,Informatique,Startup,Tanger,www.menatech.ma,Conseil
+Cloud Networks,Informatique,ETI,Tanger,www.cloudnetworks.ma,Conseil
+Atlas Systems,Santé,PME,Fès,www.atlassystems.ma,Produit
+Cloud Labs SARL,Finance,Grande Entreprise,Casablanca,www.cloudlabssarl.ma,Banque
+Casa IT,Télécom,ETI,Fès,www.casait.ma,Telecom
+Maghreb Conseil SA,Santé,ETI,Fès,www.maghrebconseilsa.ma,Autre
+Agile Networks SA,Informatique,Grande Entreprise,Rabat,www.agilenetworkssa.ma,SSII
+Cyber Solutions SARL,Télécom,Grande Entreprise,Tanger,www.cybersolutionssarl.ma,Telecom
+Smart Systems SA,Télécom,PME,Marrakech,www.smartsystemssa.ma,Telecom
+Dev Systems,Informatique,Startup,Fès,www.devsystems.ma,Conseil
+Data Tech,Télécom,ETI,Casablanca,www.datatech.ma,Telecom
+Cyber Tech,Informatique,Startup,Casablanca,www.cybertech.ma,SSII
+Tech IT,Finance,PME,Fès,www.techit.ma,Banque
+Maroc Networks SA,E-commerce,Grande Entreprise,Rabat,www.marocnetworkssa.ma,Produit
+Tech Labs SARL,Télécom,Startup,Agadir,www.techlabssarl.ma,Telecom
+Mena Systems,Logistique,PME,Tanger,www.menasystems.ma,Autre
+Cloud Digital,E-commerce,Startup,Agadir,www.clouddigital.ma,Autre
+Data Innovations SARL,Télécom,ETI,Tanger,www.datainnovationssarl.ma,Telecom
+Maghreb Group SA,Informatique,ETI,Rabat,www.maghrebgroupsa.ma,Conseil
+Cloud Consulting,Finance,ETI,Tanger,www.cloudconsulting.ma,Banque
+Tech Data,Finance,ETI,Tanger,www.techdata.ma,Banque
+Cloud Data,Santé,ETI,Tanger,www.clouddata.ma,Produit
+Cloud IT,Informatique,PME,Agadir,www.cloudit.ma,SSII
+North IT,Informatique,ETI,Marrakech,www.northit.ma,SSII
+Cyber Labs,Télécom,Startup,Fès,www.cyberlabs.ma,Telecom
+Atlas Consulting,Finance,ETI,Casablanca,www.atlasconsulting.ma,Banque
+Atlas Solutions,Informatique,Grande Entreprise,Agadir,www.atlassolutions.ma,Conseil
+Maghreb Data,E-commerce,PME,Marrakech,www.maghrebdata.ma,Produit
+Dev IT,Informatique,Startup,Tanger,www.devit.ma,SSII
+Rabat IT,Télécom,Grande Entreprise,Rabat,www.rabatit.ma,Telecom
+Cyber Group,E-commerce,ETI,Tanger,www.cybergroup.ma,Autre
+Data Conseil,Informatique,ETI,Rabat,www.dataconseil.ma,Conseil
+Maghreb Solutions,Logistique,ETI,Tanger,www.maghrebsolutions.ma,Autre
+Agile Networks,Informatique,Startup,Casablanca,www.agilenetworks.ma,Autre
+Tech Consulting,Informatique,ETI,Casablanca,www.techconsulting.ma,SSII
+Atlas Innovations SARL,Télécom,PME,Casablanca,www.atlasinnovationssarl.ma,Telecom
+Dev Data,Télécom,PME,Tanger,www.devdata.ma,Telecom
+Maroc Labs,Finance,ETI,Tanger,www.maroclabs.ma,Banque
+Smart Labs,Assurance,ETI,Tanger,www.smartlabs.ma,Produit
+Cyber Labs SA,Télécom,PME,Rabat,www.cyberlabssa.ma,Telecom
+Tanja Solutions SARL,Finance,PME,Agadir,www.tanjasolutionssarl.ma,Banque
+Atlas Conseil SARL,Télécom,Startup,Casablanca,www.atlasconseilsarl.ma,Telecom
+Tanja Consulting SARL,Assurance,PME,Fès,www.tanjaconsultingsarl.ma,Autre
+Maghreb Conseil,Finance,Grande Entreprise,Marrakech,www.maghrebconseil.ma,Banque
+Maghreb Digital,Informatique,ETI,Fès,www.maghrebdigital.ma,SSII
+Smart Data,Informatique,ETI,Casablanca,www.smartdata.ma,Conseil
+Mena IT,Informatique,PME,Tanger,www.menait.ma,Autre
+Data Innovations,Informatique,PME,Tanger,www.datainnovations.ma,Conseil
+Dev Networks,Santé,PME,Tanger,www.devnetworks.ma,Autre
+Casa Tech,Informatique,Grande Entreprise,Fès,www.casatech.ma,Conseil
+Rabat Tech,Assurance,PME,Fès,www.rabattech.ma,Autre
+Data Group,Informatique,Grande Entreprise,Casablanca,www.datagroup.ma,SSII
+Dev Digital,E-commerce,Startup,Fès,www.devdigital.ma,Autre
+Tanja Conseil SARL,Informatique,Grande Entreprise,Rabat,www.tanjaconseilsarl.ma,SSII
+Smart Group,Logistique,PME,Rabat,www.smartgroup.ma,Autre
+Mena Innovations,Assurance,Startup,Marrakech,www.menainnovations.ma,Autre
+Tanja Conseil,Logistique,ETI,Casablanca,www.tanjaconseil.ma,Produit
+Cyber Conseil,Informatique,ETI,Tanger,www.cyberconseil.ma,SSII
+Smart Conseil,Télécom,Startup,Fès,www.smartconseil.ma,Telecom
+Tech Group SARL,Télécom,ETI,Rabat,www.techgroupsarl.ma,Telecom
+Mena Networks,Assurance,ETI,Rabat,www.menanetworks.ma,Autre
+Mena Conseil SA,Informatique,Startup,Tanger,www.menaconseilsa.ma,Autre
+Data Conseil SARL,Informatique,Startup,Tanger,www.dataconseilsarl.ma,Autre
+Mena Solutions SA,Télécom,PME,Fès,www.menasolutionssa.ma,Telecom
+Maghreb Systems,Informatique,PME,Casablanca,www.maghrebsystems.ma,Conseil
+Maghreb Innovations,Informatique,Grande Entreprise,Rabat,www.maghrebinnovations.ma,Produit
+North IT SA,Télécom,ETI,Marrakech,www.northitsa.ma,Telecom
+Smart Group SA,Informatique,Grande Entreprise,Casablanca,www.smartgroupsa.ma,Conseil
+Atlas Labs,Télécom,ETI,Marrakech,www.atlaslabs.ma,Telecom
+Dev Labs,Logistique,Startup,Tanger,www.devlabs.ma,Autre
+Tech Conseil,Informatique,PME,Rabat,www.techconseil.ma,SSII
+Smart Networks,Télécom,PME,Tanger,www.smartnetworks.ma,Telecom
+Tech Labs,Télécom,PME,Agadir,www.techlabs.ma,Telecom
+Dev Group,Informatique,ETI,Casablanca,www.devgroup.ma,Autre
+Cyber Consulting,Informatique,Startup,Rabat,www.cyberconsulting.ma,SSII
+Agile Group,Informatique,Grande Entreprise,Casablanca,www.agilegroup.ma,Autre
+Mena Digital,Informatique,PME,Marrakech,www.menadigital.ma,SSII
+Atlas Tech,Logistique,ETI,Rabat,www.atlastech.ma,Produit
+Cloud Systems,Informatique,PME,Casablanca,www.cloudsystems.ma,Conseil
+Cloud Labs,Informatique,PME,Casablanca,www.cloudlabs.ma,Conseil
+North Data,E-commerce,Startup,Tanger,www.northdata.ma,Autre
+Maghreb Tech,Informatique,PME,Casablanca,www.maghrebtech.ma,Conseil
+Cyber Data,Informatique,Startup,Fès,www.cyberdata.ma,SSII
+Maghreb Consulting SARL,Télécom,Startup,Tanger,www.maghrebconsultingsarl.ma,Telecom
+Tech Tech,Finance,ETI,Rabat,www.techtech.ma,Banque
+Maghreb Networks,Finance,PME,Fès,www.maghrebnetworks.ma,Banque
+Data Networks,Informatique,Startup,Casablanca,www.datanetworks.ma,SSII
+Mena Systems SARL,Assurance,Grande Entreprise,Rabat,www.menasystemssarl.ma,Produit
+Tanja Labs SA,Informatique,Startup,Marrakech,www.tanjalabssa.ma,Conseil
+Rabat Systems,Télécom,Grande Entreprise,Rabat,www.rabatsystems.ma,Telecom
+Tech Digital,Finance,ETI,Tanger,www.techdigital.ma,Banque
+Dev Networks SARL,Télécom,PME,Casablanca,www.devnetworkssarl.ma,Telecom
+Casa Solutions,Santé,Startup,Tanger,www.casasolutions.ma,Autre
+Casa Data,Santé,ETI,Marrakech,www.casadata.ma,Produit
+Tech Networks,Informatique,Startup,Fès,www.technetworks.ma,SSII
+Cyber Digital SA,Finance,ETI,Casablanca,www.cyberdigitalsa.ma,Banque
+Agile Innovations,Finance,Grande Entreprise,Rabat,www.agileinnovations.ma,Banque
+North Solutions,Finance,ETI,Tanger,www.northsolutions.ma,Banque
+Maroc Solutions SARL,E-commerce,Grande Entreprise,Casablanca,www.marocsolutionssarl.ma,Autre
+Data Systems,Logistique,Grande Entreprise,Rabat,www.datasystems.ma,Produit
+Smart Tech,Informatique,ETI,Casablanca,www.smarttech.ma,Conseil
+Cloud Tech,Finance,ETI,Tanger,www.cloudtech.ma,Banque
+Casa Systems,Assurance,ETI,Tanger,www.casasystems.ma,Produit
+Casa Group,Finance,PME,Rabat,www.casagroup.ma,Banque
+Tanja Group,E-commerce,PME,Casablanca,www.tanjagroup.ma,Produit
+Data IT,Télécom,ETI,Agadir,www.datait.ma,Telecom
+Atlas Data,Informatique,PME,Marrakech,www.atlasdata.ma,Conseil
+Maroc Data,Informatique,ETI,Tanger,www.marocdata.ma,SSII

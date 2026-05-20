@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "source_fichier": "source_data/offres_emploi_it_maroc.json",
+    "date_ingestion": "2026-05-09T20:30:44.220132",
+    "partition": "rekrute/2024_01",
+    "nb_offres": 1
+  },
+  "offres": [
+    {
+      "id_offre": "MEX-11823",
+      "source": "Rekrute",
+      "titre_poste": "Architecte IT 1 à 3 ans",
+      "entreprise": "TechCorp 10",
+      "ville": "Rabat",
+      "date_publication": "2024-01-01",
+      "type_contrat": "CDI",
+      "salaire_brut": "25000 à 35000 DH",
+      "experience_requise": "1 à 3 ans",
+      "teletravail": "Télétravail total",
+      "description": "Nous recherchons un Architecte IT pour rejoindre notre équipe. Maîtrise requise : Spark, PostgreSQL, SQL, Spring.",
+      "competences_brut": "Spark, PostgreSQL, SQL, Spring"
+    }
+  ]
+}

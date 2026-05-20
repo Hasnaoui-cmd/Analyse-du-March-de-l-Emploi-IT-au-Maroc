@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "source_fichier": "source_data/offres_emploi_it_maroc.json",
+    "date_ingestion": "2026-05-09T20:30:44.218811",
+    "partition": "indeed/2024_01",
+    "nb_offres": 3
+  },
+  "offres": [
+    {
+      "id_offre": "MEX-11188",
+      "source": "Indeed",
+      "titre_poste": "Développeur Frontend 3 à 5 ans",
+      "entreprise": "TechCorp 8",
+      "ville": "Casablanca",
+      "date_publication": "2024-01-01",
+      "type_contrat": "CDI",
+      "salaire_brut": "14K - 21K MAD",
+      "experience_requise": "3 à 5 ans",
+      "teletravail": "Sur site",
+      "description": "Nous recherchons un Développeur Frontend pour rejoindre notre équipe. Maîtrise requise : AWS, Power BI, Java.",
+      "competences_brut": "AWS, Power BI, Java"
+    },
+    {
+      "id_offre": "MEX-12751",
+      "source": "Indeed",
+      "titre_poste": "Développeur Frontend 1 à 3 ans",
+      "entreprise": "TechCorp 50",
+      "ville": "Casablanca",
+      "date_publication": "2024-01-01",
+      "type_contrat": "Freelance",
+      "salaire_brut": "10K - 15K MAD",
+      "experience_requise": "1 à 3 ans",
+      "teletravail": "Sur site",
+      "description": "Nous recherchons un Développeur Frontend pour rejoindre notre équipe. Maîtrise requise : Java, JavaScript, React, Docker.",
+      "competences_brut": "Java, JavaScript, React, Docker"
+    },
+    {
+      "id_offre": "MEX-13765",
+      "source": "Indeed",
+      "titre_poste": "Support IT 3 à 5 ans",
+      "entreprise": "TechCorp 47",
+      "ville": "Tanger",
+      "date_publication": "2024-01-01",
+      "type_contrat": "CDI",
+      "salaire_brut": "7K - 11K MAD",
+      "experience_requise": "3 à 5 ans",
+      "teletravail": "Sur site",
+      "description": "Nous recherchons un Support IT pour rejoindre notre équipe. Maîtrise requise : React, Airflow.",
+      "competences_brut": "React, Airflow"
+    }
+  ]
+}
